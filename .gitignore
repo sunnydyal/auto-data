@@ -1,0 +1,7 @@
+/bin
+.metadata
+.settings/
+.project
+.classpath
+.gradle
+/junit.log
